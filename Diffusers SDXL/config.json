@@ -1,7 +1,7 @@
 {
     "sd_checkpoint_autoload": true,
-    "sd_model_checkpoint": "model_sdxlv0.9.safetensors",
-    "sd_model_refiner": "refiner_model_sdxlv0.9.safetensors",
+    "sd_model_checkpoint": "sd_xl_base_1.0.safetensors",
+    "sd_model_refiner": "sd_xl_refiner_1.0.safetensors",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
     "sd_vae": "Automatic",
