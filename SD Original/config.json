@@ -1,6 +1,6 @@
 {
   "sd_checkpoint_autoload": true,
-  "sd_model_checkpoint": "DreamShaper_7.safetensors",
+  "sd_model_checkpoint": "revAnimated_v122.safetensors",
   "sd_model_refiner": "None",
   "sd_checkpoint_cache": 0,
   "sd_vae_checkpoint_cache": 0,
@@ -265,7 +265,7 @@
   "disable_all_extensions": "none",
   "sd_checkpoint_hash": null,
   "clip_skip": 2,
-  "sd_checkpoint": "DreamShaper_7.safetensors",
+  "sd_checkpoint": "revAnimated_v122.safetensors",
   "ldsr_steps": 100,
   "ldsr_cached": false,
   "SWIN_tile": 192,
