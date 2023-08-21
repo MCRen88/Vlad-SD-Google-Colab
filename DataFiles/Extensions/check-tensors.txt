@@ -1,0 +1,1 @@
+https://github.com/iiiytn1k/sd-webui-check-tensors
