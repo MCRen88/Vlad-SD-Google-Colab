@@ -1,8 +1,4 @@
-(dreamshaper_7.safetensors, colorful_v31.safetensors, xxmix9realistic_v40.safetensors, epicrealism_pureEvolutionV5.safetensors, perfectWorld_v5Baked.safetensors, etherRealMix_etherRealMix3.safetensors, photon_v1.safetensors)
-https://civitai.com/api/download/models/109123, https://civitai.com/api/download/models/90599, https://civitai.com/api/download/models/102222, https://civitai.com/api/download/models/134065, https://civitai.com/api/download/models/129687, https://civitai.com/api/download/models/124104, https://civitai.com/api/download/models/90072
-
-(deliberate_v3.safetensors, noosphere_v3.safetensors, epicrealism_naturalSinRC1VAE.safetensors, etherRealMix_etherRealMix31.safetensors)
-https://civitai.com/api/download/models/156110, https://civitai.com/api/download/models/107675, https://civitai.com/api/download/models/143906, https://civitai.com/api/download/models/156263
-
-(revAnimated_v122EOL.safetensors, etherRealMix_etherRealMix31.safetensors, realcartoon3d_v7.safetensors)
-https://civitai.com/api/download/models/46846, https://civitai.com/api/download/models/156263, https://civitai.com/api/download/models/157159
+https://civitai.com/api/download/models/156110
+https://civitai.com/api/download/models/107675
+https://civitai.com/api/download/models/143906
+https://civitai.com/api/download/models/156263
